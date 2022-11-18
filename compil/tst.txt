@@ -1,0 +1,11 @@
+import "Hhh.Hhh"
+if(A == B ):
+    A=6
+    if(A == B ):
+        A=5
+        if(A == B ):
+            A=5
+if(A == B ):
+    A=5
+
+
